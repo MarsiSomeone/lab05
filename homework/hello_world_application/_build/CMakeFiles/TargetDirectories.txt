@@ -1,0 +1,9 @@
+/home/marsi/MarsiSomeone/workspace/projects/lab03/homework/hello_world_application/_build/CMakeFiles/hello_world.dir
+/home/marsi/MarsiSomeone/workspace/projects/lab03/homework/hello_world_application/_build/CMakeFiles/edit_cache.dir
+/home/marsi/MarsiSomeone/workspace/projects/lab03/homework/hello_world_application/_build/CMakeFiles/rebuild_cache.dir
+/home/marsi/MarsiSomeone/workspace/projects/lab03/homework/hello_world_application/_build/formatter_ex/CMakeFiles/formatter_ex.dir
+/home/marsi/MarsiSomeone/workspace/projects/lab03/homework/hello_world_application/_build/formatter_ex/CMakeFiles/edit_cache.dir
+/home/marsi/MarsiSomeone/workspace/projects/lab03/homework/hello_world_application/_build/formatter_ex/CMakeFiles/rebuild_cache.dir
+/home/marsi/MarsiSomeone/workspace/projects/lab03/homework/hello_world_application/_build/formatter_lib/CMakeFiles/formatter.dir
+/home/marsi/MarsiSomeone/workspace/projects/lab03/homework/hello_world_application/_build/formatter_lib/CMakeFiles/edit_cache.dir
+/home/marsi/MarsiSomeone/workspace/projects/lab03/homework/hello_world_application/_build/formatter_lib/CMakeFiles/rebuild_cache.dir
