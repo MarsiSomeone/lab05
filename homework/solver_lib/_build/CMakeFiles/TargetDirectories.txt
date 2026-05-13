@@ -1,3 +1,0 @@
-/home/marsi/MarsiSomeone/workspace/projects/lab03/homework/solver_lib/_build/CMakeFiles/solver.dir
-/home/marsi/MarsiSomeone/workspace/projects/lab03/homework/solver_lib/_build/CMakeFiles/edit_cache.dir
-/home/marsi/MarsiSomeone/workspace/projects/lab03/homework/solver_lib/_build/CMakeFiles/rebuild_cache.dir

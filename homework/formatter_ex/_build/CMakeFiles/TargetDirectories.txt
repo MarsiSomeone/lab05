@@ -1,6 +1,0 @@
-/home/marsi/MarsiSomeone/workspace/projects/lab03/homework/formatter_ex/_build/CMakeFiles/formatter_ex.dir
-/home/marsi/MarsiSomeone/workspace/projects/lab03/homework/formatter_ex/_build/CMakeFiles/edit_cache.dir
-/home/marsi/MarsiSomeone/workspace/projects/lab03/homework/formatter_ex/_build/CMakeFiles/rebuild_cache.dir
-/home/marsi/MarsiSomeone/workspace/projects/lab03/homework/formatter_ex/_build/formatter_lib/CMakeFiles/formatter.dir
-/home/marsi/MarsiSomeone/workspace/projects/lab03/homework/formatter_ex/_build/formatter_lib/CMakeFiles/edit_cache.dir
-/home/marsi/MarsiSomeone/workspace/projects/lab03/homework/formatter_ex/_build/formatter_lib/CMakeFiles/rebuild_cache.dir
