@@ -7,9 +7,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v4
+    
+    - name: Clean build directory
+      run: rm -rf _build _install
+
     - name: Configure
       run: cmake -H. -B_build -DCMAKE_INSTALL_PREFIX=_install
+
     - name: Build
       run: cmake --build _build
+    
     - name: Install
       run: cmake --build _build --target install
+    

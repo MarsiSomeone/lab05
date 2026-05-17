@@ -107,7 +107,7 @@ CMAKE_EXPORT_COMPILE_COMMANDS:BOOL=
 CMAKE_FIND_PACKAGE_REDIRECTS_DIR:STATIC=/home/marsi/MarsiSomeone/workspace/projects/lab03/_build/CMakeFiles/pkgRedirects
 
 //Install path prefix, prepended onto install directories.
-CMAKE_INSTALL_PREFIX:PATH=/home/marsi/MarsiSomeone/workspace/projects/lab03/_inslall
+CMAKE_INSTALL_PREFIX:PATH=/usr/local
 
 //Path to a program.
 CMAKE_LINKER:FILEPATH=/usr/bin/ld
@@ -217,15 +217,6 @@ CMAKE_TAPI:FILEPATH=CMAKE_TAPI-NOTFOUND
 // during the make.  This is useful for debugging only. With Visual
 // Studio IDE projects all commands are done without /nologo.
 CMAKE_VERBOSE_MAKEFILE:BOOL=FALSE
-
-//Value Computed by CMake
-Project_BINARY_DIR:STATIC=/home/marsi/MarsiSomeone/workspace/projects/lab03/_build
-
-//Value Computed by CMake
-Project_IS_TOP_LEVEL:STATIC=ON
-
-//Value Computed by CMake
-Project_SOURCE_DIR:STATIC=/home/marsi/MarsiSomeone/workspace/projects/lab03
 
 //Value Computed by CMake
 print_BINARY_DIR:STATIC=/home/marsi/MarsiSomeone/workspace/projects/lab03/_build
