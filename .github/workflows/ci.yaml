@@ -7,7 +7,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v5
-    
+
     - name: Clean build directory
       run: rm -rf _build _install
 
@@ -16,7 +16,11 @@ jobs:
 
     - name: Build
       run: cmake --build _build
-    
+
     - name: Install
       run: cmake --build _build --target install
-    
+
+    - name: Run tests
+      run: |
+        cd _build
+        ctest --output-on-failure --verbose
