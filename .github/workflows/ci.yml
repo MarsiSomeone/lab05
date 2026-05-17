@@ -1,0 +1,29 @@
+---
+name: CI
+
+on:
+  push:
+    branches: [master, main]
+  pull_request:
+    branches: [master, main]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Configure CMake
+        run: |
+          mkdir -p _build
+          cd _build
+          cmake .. -DCMAKE_INSTALL_PREFIX=_install -DBUILD_TESTS=ON
+
+      - name: Build
+        run: cmake --build _build
+
+      - name: Test
+        run: |
+          cd _build
+          ctest --verbose

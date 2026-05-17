@@ -1,5 +1,5 @@
 CMakeFiles/print.dir/sources/print.cpp.o: \
- /home/marsi/MarsiSomeone/workspace/projects/lab03/sources/print.cpp \
+ /home/marsi/MarsiSomeone/workspace/projects/lab05/sources/print.cpp \
  /usr/include/stdc-predef.h /usr/include/c++/13/string \
  /usr/include/c++/13/bits/requires_hosted.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/c++config.h \
